@@ -10,5 +10,14 @@ A :
 4- Demandez aux autres membres du groupe de récupérer les derniers changements ? Que remarquez-vous ? 
     Nous remarquons que tous les membres arrivent à réucupérer la méthode, et que chacun a l'erreur de compilation.
 
-
+B :
+6-  Que remarquez-vous ? 
+    Error:  Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project CDCI: Fatal error compiling: error: invalid target release: 11.0.11 -> [Help 1]
+    Error:  
+    Error:  To see the full stack trace of the errors, re-run Maven with the -e switch.
+    Error:  Re-run Maven using the -X switch to enable full debug logging.
+    Error:  
+    Error:  For more information about the errors and possible solutions, please read the following articles:
+    Error:  [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+    Error: Process completed with exit code 1.
 

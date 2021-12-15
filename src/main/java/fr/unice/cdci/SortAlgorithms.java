@@ -1,6 +1,7 @@
 package fr.unice.cdci;
 
 public class SortAlgorithms {
+
     static void bubbleSort(Integer[] arr) {
         int n = arr.length;
         int temp = 0;
@@ -16,7 +17,8 @@ public class SortAlgorithms {
             }
         }
     }
-}
+
     public void reverseSort(Integer[] values) {
         // Cette méthode ne fait rien pour l'instant
     }
+}
