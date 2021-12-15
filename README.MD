@@ -21,3 +21,8 @@ B :
     Error:  [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
     Error: Process completed with exit code 1.
 
+9- On remarque que les tests ne passent plus à cause de la fonction badTest.
+
+10- On constate que voilà
+
+11-
