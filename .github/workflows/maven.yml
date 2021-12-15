@@ -15,6 +15,5 @@ jobs: # list des jobs à effectuer
         with:
           java-version: '11'
           distribution: 'adopt'
-          cache: maven
       - name: Build the tests #
         run: mvn test
