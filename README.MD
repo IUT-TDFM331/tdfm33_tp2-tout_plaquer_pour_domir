@@ -23,6 +23,6 @@ B :
 
 9- On remarque que les tests ne passent plus à cause de la fonction badTest.
 
-10- On constate que voilà
+10- On constate que le code se compile à chaque fois que l'on pull le projet sur sa machine.
 
-11-
+13- On remarque que les tests s'exécutent à chaque fois que l'on pull le projet sur sa machine.
