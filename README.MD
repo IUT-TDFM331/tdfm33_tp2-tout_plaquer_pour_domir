@@ -33,7 +33,7 @@ On a essayé de le résoudre en appelant le prof et en recherchant de notre côt
 Partie 4 :
 
 1- email : iuts3.class@gmail.com
-NB : jsp si vous y avez accès met j'ai paramétré les notifications du git sur cet email
+NB : jsp si vous y avez accès, mais j'ai paramétré les notifications du Git sur cet email
 
 2- Il y avait 2 méthodes : 
 j'ai choisi la méthode où on invite un bot sur un slack (lien du slack en question : https://join.slack.com/t/tdfm33tp2tout-y3i3795/shared_invite/zt-10ezmp1t2-AagKD0d5JN9lfPalMqITkQ)
