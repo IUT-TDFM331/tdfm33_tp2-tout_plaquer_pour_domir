@@ -26,3 +26,14 @@ B :
 10- On constate que le code se compile à chaque fois que l'on pull le projet sur sa machine.
 
 13- On remarque que les tests s'exécutent à chaque fois que l'on pull le projet sur sa machine.
+
+NB : On a eu un problème avec le git (maven) qui nous empêcher de compiler le projet, c'est pour ça qu'on avait très souvent les mêmes erreurs 
+On a essayé de le résoudre en appelant le prof et en recherchant de notre côté sur internet mais on a pas réussi à trouver une solution.
+
+Partie 4 :
+
+1- email : iuts3.class@gmail.com
+NB : jsp si vous y avez accès met j'ai paramétré les notifications du git sur cet email
+
+2- Il y avait 2 méthodes : 
+j'ai choisi la méthode où on invite un bot sur un slack (lien du slack en question : https://join.slack.com/t/tdfm33tp2tout-y3i3795/shared_invite/zt-10ezmp1t2-AagKD0d5JN9lfPalMqITkQ)
